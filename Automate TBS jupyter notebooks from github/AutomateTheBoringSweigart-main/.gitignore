@@ -1,0 +1,7 @@
+# File types Git will ignore
+
+## Editor settings
+.vscode/
+
+## Personal machine settings
+*.DS_Store
